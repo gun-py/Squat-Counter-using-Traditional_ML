@@ -18,11 +18,11 @@
 
 ### 3 Folders, it is advisable to maintain this structure while calling the API
     -> model1 -> app.py
-                `Base: http://127.0.0.1:5000`
-                `Get Preds for 10 Days: http://127.0.0.1:5000/forecast/<stock_id>`
+                Base: http://127.0.0.1:5000
+                Get Preds for 10 Days: http://127.0.0.1:5000/forecast/<stock_id>
     -> model2 -> app.py
-                `Base: http://127.0.0.1:5000`
-                `Get Preds for 10 Days: http://127.0.0.1:5000/forecast/<stock_id>`
+                Base: http://127.0.0.1:5000`
+                Get Preds for 10 Days: http://127.0.0.1:5000/forecast/<stock_id>
     -> model3 -> app.py
                 Base: http://127.0.0.1:5000
                 Get Preds for 10 Days: http://127.0.0.1:5000/forecast/<stock_id>
