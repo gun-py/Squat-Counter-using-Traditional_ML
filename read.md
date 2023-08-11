@@ -26,9 +26,8 @@
                 Get Preds for 10 Days: http://127.0.0.1:5000/forecast/<stock_id>
 
 ### Example Request for Stock QQQ:
-    ```http://127.0.0.1:5000/forecast/QQQ```
+    http://127.0.0.1:5000/forecast/QQQ
     
 ### Example Response for Stock QQQ:
 `{"items": ["day1", "day2", "day3", "day4", "day5", "day6", "day7", "day8", "day9", "day10"], "values": [371.0381164550781, 367.29608154296875, 371.8160400390625, 365.5264587402344, 370.934814453125, 370.8857727050781, 369.0135803222656, 365.74957275390625, 366.057861328125, 372.68017578125]}`
 
-# In that case please use your mobile hotspot or upload the directory in Google Colab and run the same
