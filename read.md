@@ -13,6 +13,8 @@
 - joblib
 - os
 - urllib
+- flask
+- warnings
 
 ### 3 Folders, it is advisable to maintain this structure while calling the API
     -> model1 -> app.py
